@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "City-level restaurant data for Newport News, Virginia with a population of over 186k. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Newport News, Virginia, US",
+  "export_job_id": "52983af6-0b33-40f6-8df4-a96561209aa2",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 553879,
+  "location_name": "Newport News",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-newport-news-virginia-us-sample-553879",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/553879/beamstation_553879_restaurants-us-va_SAMPLE_DIST.csv",
+  "sample_pct": 6.13,
+  "sample_records": 25,
+  "sample_sha256": "303ccc86479a3598b99e6d8b7e5733a54fb491f2b7ed1cb78ab9a891cf427fe8",
+  "sample_size_bytes": 118851,
+  "total_records": 408,
+  "updated_at": "2026-03-31T15:42:53.683036+00:00"
+}
