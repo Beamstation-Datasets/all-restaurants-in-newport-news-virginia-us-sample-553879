@@ -1,0 +1,12 @@
+{
+  "export_job_id": "52983af6-0b33-40f6-8df4-a96561209aa2",
+  "id_short": 553879,
+  "published_at": "2026-04-13T19:17:15Z",
+  "repo_name": "all-restaurants-in-newport-news-virginia-us-sample-553879",
+  "sample_asset_name": "beamstation_553879_restaurants-us-va_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/553879/beamstation_553879_restaurants-us-va_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "303ccc86479a3598b99e6d8b7e5733a54fb491f2b7ed1cb78ab9a891cf427fe8",
+  "sample_size_bytes": 118851,
+  "total_records": 408
+}
