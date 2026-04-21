@@ -1,6 +1,6 @@
 # All Restaurants in Newport News, Virginia, US
 
-> Free BeamStation sample export with 53 rows and masked direct-contact fields.
+> Free BeamStation sample export with 42 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `553879` |
 | Location | Newport News |
 | Category | Restaurants |
-| Full dataset size | 539 records |
-| Free sample size | 53 records (9.83%) |
-| Last export | 2026-04-14T16:29:35.155193+00:00 |
+| Full dataset size | 421 records |
+| Free sample size | 42 records (9.98%) |
+| Last export | 2026-04-21T17:58:05.269463+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-newport-news-virginia-us-sample-553879/releases/download/sample-latest/beamstation_553879_restaurants-us-va_SAMPLE_DIST.csv) |
 
 ## What is in this sample
